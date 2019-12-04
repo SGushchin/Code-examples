@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f2ac97118a2acea42bff7a4c2d360a35
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RotondaC
+  fontNames:
+  - RotondaC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 743af373b514e4345b7292df39d513d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
